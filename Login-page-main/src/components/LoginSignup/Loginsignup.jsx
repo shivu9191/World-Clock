@@ -21,16 +21,7 @@ const Loginsignup = () => {
                 <div className="underline"></div>
                 <div className="inputs">
                     {action === "Login" ? <div className='input'>
-                    {/* <img src={login} alt="" className='icon' /> */}
-{/* 
-    
-                    <select  value={loginType} className='input'  onChange={handleLoginTypeChange} style={{width:'100%',fontSize: '19px'}}>
-                        <option value="#">Select login type</option>
-                        <option value="Login">Login</option>
-                        <option value="AdminLogin">Admin Login</option>
-                        <option value="BranchLogin">Branch Login</option>
-                        <option value="CustomerLogin">Customer Login</option>
-                    </select> */}
+                    
                     </div> : <div className='input'>
                         <img src={person} alt="" className='icon' />
                         <input type="text" placeholder='Name' />
