@@ -1,4 +1,4 @@
-# Asimple Sign-up and Login page
+# A simple Sign-up and Login page
 
 
 
